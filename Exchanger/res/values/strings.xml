@@ -1,0 +1,9 @@
+<resources>
+    
+    <string name="app_name">Currency Convertor</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main_bbcnews">Convertor</string>
+    <string name="empty"/>
+    <string name="emptyStrExchangeFrom">Enter the sum</string>
+
+</resources>
